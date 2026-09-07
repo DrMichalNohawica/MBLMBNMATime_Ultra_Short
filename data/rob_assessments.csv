@@ -1,0 +1,32 @@
+sid,label,tool,randomised,d1_randomisation,d2_deviations,d3_missing_data,d4_outcome_measurement,d5_selective_reporting,overall
+1,Felice 2012,RoB2 (Cochrane risk-of-bias tool for randomised trials),TRUE,Low,Some concerns,Some concerns,Some concerns,Low,Some concerns
+2,Esposito 2012,"RoB2 (Cochrane risk-of-bias tool for randomised trials, within-person/split-mouth variant)",TRUE,Low,Some concerns,Some concerns,Some concerns,Low,Some concerns
+W3024572837,Amato 2020 †,"ROBINS-I-style (non-randomised cohort; RoB2 domain labels retained only for schema consistency, not scored per the RoB2 algorithm)",FALSE,Some concerns,High,Low,Some concerns,Some concerns,High
+W4402521422,Anitua 2024,"RoB2 (RCT, split-mouth)",TRUE,Low,Low,Low,Some concerns,Low,Some concerns
+astra-6v11-fdp,Guljé 2013,RoB2,TRUE,Low,Some concerns,Some concerns,Some concerns,Low,Some concerns
+W2176962321,Calvo-Guirado 2016 †,"CASP (Cohort Study Checklist, adapted; non-randomized within-patient site-determined design)",FALSE,High,Low,Some concerns,Some concerns,Low,High
+cannizzaro-crossarch,Cannizzaro 2015,RoB2 (draft; based on 1-yr full text 25738177 + 5-yr abstract only 30246183),TRUE,Low,Some concerns,Some concerns,Some concerns,Low,Some concerns
+esposito-4mm-augmented,Esposito 2016,RoB2 (parallel-group trial),TRUE,Low,Some concerns,Some concerns,Some concerns,Some concerns,Some concerns
+esposito-5mm-augmented-3y5y,Felice 2009,"Cochrane RoB2 (draft, adapted for split-mouth RCT)",TRUE,Low,Some concerns,Low,Some concerns,Low,Some concerns
+felice-4x4,Felice 2015a,RoB2 (parallel-group trial),TRUE,Low,Some concerns,Low,Some concerns,Some concerns,Low
+felice-crestal-sinuslift,Felice 2015b,"Cochrane RoB2 (draft, adapted for parallel-group RCT)",TRUE,Low,Low,Low,Some concerns,Low,Some concerns
+guida-fullarch-mandible,Guida 2020,RoB2 (parallel-group RCT),TRUE,Low,Low,Some concerns,Low,Low,Low
+gulje-maxilla-6v11,Guljé 2014,RoB2,TRUE,Low,Some concerns,Some concerns,Some concerns,Some concerns,Some concerns
+hadzik-wroclaw,Hadzik 2018 †,"CASP (Cohort Study Checklist, domains re-mapped to RoB2-style headers per extraction protocol)",FALSE,Some concerns,Low,Some concerns,Some concerns,Some concerns,Some concerns
+W3172979183,Magdy 2021,RoB2 (RCT),TRUE,Low,Some concerns,Some concerns,Some concerns,Low,Some concerns
+W3178976371,Nielsen 2021,RoB2 (parallel-group trial),TRUE,Low,Some concerns,Some concerns,Some concerns,Some concerns,Some concerns
+W2092702732,Malo 2015 †,"RoB2 (retrospectively-labelled as a RCT-adjacent design in some downstream citations, but the source paper itself self-describes as a RETROSPECTIVE cohort - CASP is arguably more appropriate; scored with RoB2 headers per extraction protocol's tool-selection convention but flagged for reconciliation, see notes below)",FALSE,High,Some concerns,Some concerns,Some concerns,Low,High
+W2472880666,Bechara 2016,RoB2 (genuine 2-arm parallel-group RCT),TRUE,Low,Some concerns,Some concerns,Low,Low,Some concerns
+W2946709552,Shi 2019,"RoB2 (genuine 3-arm parallel-group RCT, registered NCT02350075)",TRUE,Low,Low,Some concerns,Low,Low,Low
+W3129174852,Shi 2021,RoB2 (3-year follow-up of the same registered RCT as openalex:W2946709552/pmid31124147; same tool/rationale applies),TRUE,Low,Low,Some concerns,Low,Low,Some concerns
+W3152386461,Rossi 2021,RoB2 (parallel-group RCT),TRUE,Low,Some concerns,Some concerns,Some concerns,Low,Some concerns
+W4283588255,Schiegnitz 2022 †,"CASP (Cohort Study Checklist) - correctly matches the source's own self-description as a retrospective cohort study, no randomisation involved",FALSE,High,Some concerns,Some concerns,Some concerns,Low,High
+W2896165594,Rokn 2018,RoB2 (split-mouth/within-patient adaptation),TRUE,Low,Some concerns,Some concerns,Some concerns,Some concerns,Some concerns
+romeo-storelli-6v10,Romeo 2014,RoB2 (draft; based on 5-yr full text 25422825 + 10-yr abstract only 30246182),TRUE,Some concerns,Some concerns,High,High,Low,High
+W2005148312,Rossi 2016,RoB2 (parallel-group trial),TRUE,Low,Some concerns,Some concerns,Some concerns,Some concerns,Some concerns
+W2895578297,Svezia 2018 †,"ROBINS-I (non-randomised comparative cohort, adapted to RoB2-style template headers)",FALSE,High,Low,Some concerns,Low,Low,Some concerns
+tay_usporedba_osteoimuno,Karci 2021,RoB2,TRUE,Some concerns,Low,Some concerns,Some concerns,High,Some concerns
+thoma-6v11-SFE,Thoma 2015,RoB2,TRUE,Low,Some concerns,Some concerns,Low,Low,Some concerns
+W3003957245,Torassa 2020 †,CASP (Cohort Study Checklist),FALSE,Some concerns,Low,Low,Some concerns,Some concerns,Some concerns
+W2904818928,Weerapong 2019,RoB2,TRUE,Some concerns,Low,Some concerns,Low,Low,Some concerns
+zurich-6v10,Sahrmann 2016,RoB2,TRUE,Low,Some concerns,Some concerns,Low,Low,Some concerns
